@@ -4,7 +4,7 @@ A FastAPI service with basic endpoints. Phase 0 of an eight-month
 backend and LLM engineering project.
 
 ## live url
-**Live:** https://first-api-obx1.onrender.com/docs
+**Live:** https://first-api-obx1.onrender.com/
 
 ## Running locally
 
