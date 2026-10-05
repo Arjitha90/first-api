@@ -3,6 +3,9 @@
 A FastAPI service with basic endpoints. Phase 0 of an eight-month
 backend and LLM engineering project.
 
+## live url
+**Live:** https://first-api-obx1.onrender.com/docs
+
 ## Running locally
 
 python -m venv venv
